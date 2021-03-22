@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Next.js build output
+.next/
+out/
+
+# Storybook build output
+/build/
+
+# Editor settings
+.vscode/
+
+# dotenv
+.env*
+
+# misc
+.DS_Store
